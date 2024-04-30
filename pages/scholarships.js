@@ -137,7 +137,6 @@ const ScholarshipPage = () => {
           </div>
           </div>
 
-
           <div className="w-full">
 
           <label className="font-semibold text-md text-gray-700">
