@@ -135,7 +135,6 @@ const HomePage = () => {
                 className=" border border-gray-300 rounded w-full h-10 sm:h-11 "
               />
             </div>
-          {/* </div> */}
           <div className="w-full">
             <label className="block text-md font-semibold text-gray-700 ">
               {getConstants().ROUND_NUMBER_LABEL}
